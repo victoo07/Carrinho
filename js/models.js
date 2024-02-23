@@ -44,7 +44,7 @@ let modelsJson = [
 
     {
         id: 5,
-        name: 'P47D - Thunderbold',
+        name: 'P47D - Thunderbolt',
         img: 'img/P47D.png',
         price: [100.00, 150.00, 200.00],
         sizes: ['1/72', '1/48', '1/32'],
@@ -78,7 +78,17 @@ let modelsJson = [
         img: 'img/Zero.png',
         price: [100.00, 150.00, 200.00],
         sizes: ['1/72', '1/48', '1/32'],
-        description: 'O mais faoso caça da marinha japonesa, terror do pacífico nos anos iniciais da guerra'
+        description: 'O mais famoso caça da marinha japonesa, terror do pacífico nos anos iniciais da guerra'
+    },
+    //Objeto 9
+
+    {
+        id: 9,
+        name: 'A10 Thunderbolt',
+        img: 'img/a10.png',
+        price: [100.00, 150.00, 200.00],
+        sizes: ['1/72', '1/48', '1/32'],
+        description: 'O lendário A10 thunderbolt, o caça americano que era conhecido por seu poderoso canhão de 50mm'
     }
 
 
